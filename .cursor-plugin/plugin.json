@@ -1,0 +1,35 @@
+{
+  "name": "mcp-google-flights-fares",
+  "displayName": "Google Flights Fares",
+  "version": "1.0.0",
+  "description": "MCP server for Google Flights Fares: flight prices by route and date from Google Flights.",
+  "author": {
+    "name": "Mamba Labs",
+    "email": "labs@mambamindsetgrowth.com"
+  },
+  "homepage": "https://mambabuilt.com",
+  "repository": "https://github.com/mambalabsdev/mcp-google-flights-fares",
+  "license": "MIT",
+  "category": "productivity",
+  "tags": [
+    "google-flights",
+    "flight-prices",
+    "airfare",
+    "travel",
+    "scraper",
+    "apify",
+    "mcp"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "google-flights",
+    "flight-prices",
+    "airfare",
+    "travel",
+    "scraper",
+    "apify",
+    "mcp"
+  ],
+  "mcpServers": ".mcp.json"
+}

@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-google-flights-fares": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-google-flights-fares"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}

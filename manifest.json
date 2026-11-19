@@ -1,7 +1,7 @@
 {
   "manifest_version": "0.3",
   "name": "mcp-google-flights-fares",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for Google Flights Fares: flight prices by route and date from Google Flights.",
   "author": {
     "name": "Mamba Labs"
